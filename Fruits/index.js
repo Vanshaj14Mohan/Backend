@@ -6,6 +6,6 @@ const banana = require("./banana");
 const mango = require("./mango");
 
 //Now you can use these variables as you would use any other variable in JavaScript. 
-let fruits = [apple, banana, mango ];
+let fruits = [apple, banana, mango ]; //Making an array here
 
 module.exports = fruits;
