@@ -5,7 +5,8 @@ for(i =0; i<n; i++){
 }
 console.log("Bye");
 
-let arg = process.argv;
+let arg = process.argv; 
+//process -> This object provides information about , and control over, the current Node.js process. It is a global object.
 
 for(let i =0; i<arg.length; i++){
     console.log("Hello ", arg[i]);
