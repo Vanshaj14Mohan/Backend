@@ -9,3 +9,10 @@ For verification Just type npm in your terminal.
 
 Command how to use it
 npm install <package-name> -> install a package
+________________________________________________________________________________________________________________________________________
+
+Installing a Package
+: node_modules -> The node_modules folder contains every installed dependency for your project.
+we don't have to install it separately, it will be installed automatically when we install a package using npm install <package-name> command.
+
+: package-lock.json -> It records the exact version of every installed dependency, including it's sub-dependencies and their versions.
