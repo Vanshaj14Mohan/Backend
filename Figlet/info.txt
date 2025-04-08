@@ -17,4 +17,4 @@ we don't have to install it separately, it will be installed automatically when 
 
 : package-lock.json -> It records the exact version of every installed dependency, including it's sub-dependencies and their versions.
 
-: package.json -> The package.json file contains descriptive and functional metadata about a project, such as name, version, and dependencies
+: package.json -> The package.json file contains descriptive and functional metadata about a project, such as name, version, and dependencies.
