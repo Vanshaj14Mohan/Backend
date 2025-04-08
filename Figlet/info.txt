@@ -1,0 +1,11 @@
+Npm -> Node Package Manager
+npm is a standard package manager for node.js
+: Work of npm
+1. Library of packages -> packages basically means libraries of code written by other person that can be used publicly in your project
+eg: express js, react js-> They both are packages
+
+2. A Command Line tool -> A way through Command Line we can install our packages in our project
+For verification Just type npm in your terminal.
+
+Command how to use it
+npm install <package-name> -> install a package
