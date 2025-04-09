@@ -1,0 +1,14 @@
+{
+  "name": "demo-project",
+  "version": "1.0.0",
+  "description": "A demo data project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vanshaj P Mohan",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.8.0"
+  }
+}
