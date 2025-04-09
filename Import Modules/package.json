@@ -1,0 +1,12 @@
+{
+  "name": "import-modules",
+  "version": "1.0.0",
+  "description": "Test file",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vanshaj P Mohan",
+  "license": "ISC",
+  "type": "module"
+}
