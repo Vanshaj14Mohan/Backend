@@ -1,4 +1,4 @@
-//Importing sum, mult and PI
+//Importing sum, mult and PI4
 import {sum, mult, PI} from "./math.js";
 
 console.log(sum(2,4));
